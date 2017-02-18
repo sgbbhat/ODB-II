@@ -4,7 +4,7 @@
  * Partially brought from its datasheet.
  * spec: 4 lines x 20 characters (only 2 lines are available for output)
  *
- * Taejoon Byun <taejoon@umn.edu>
+ * Shreeganesh Bhat <bhatx061@umn.edu>
  * May 2 2016
  */
 
