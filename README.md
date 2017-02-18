@@ -3,6 +3,9 @@ OBD II Project
 
 > Last updated: Friday April 29
 
+OBD II is a system with custom built monitoring software that communicate with all modern vehicles. It is capable of extracting meaningful data from engine control unit. It provides access to vehicles sensor readings and displays values measured by the sensors in real-time. It can also help parents and authorities to monitor and improve driving habits of novice drivers.
+
+
 Pin Assignment
 --------------
 
